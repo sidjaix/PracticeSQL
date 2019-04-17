@@ -1,0 +1,10 @@
+D:\PracticeSQL\PracticeSQL\bin\Debug\PracticeSQL.dacpac
+D:\PracticeSQL\PracticeSQL\bin\Debug\PracticeSQL.dll
+D:\PracticeSQL\PracticeSQL\bin\Debug\PracticeSQL.pdb
+D:\PracticeSQL\PracticeSQL\obj\Debug\PracticeSQL.sqlprojAssemblyReference.cache
+D:\PracticeSQL\PracticeSQL\obj\Debug\Model.xml
+D:\PracticeSQL\PracticeSQL\obj\Debug\refactor.xml
+D:\PracticeSQL\PracticeSQL\obj\Debug\postdeploy.sql
+D:\PracticeSQL\PracticeSQL\obj\Debug\predeploy.sql
+D:\PracticeSQL\PracticeSQL\obj\Debug\PracticeSQL.dll
+D:\PracticeSQL\PracticeSQL\obj\Debug\PracticeSQL.pdb
