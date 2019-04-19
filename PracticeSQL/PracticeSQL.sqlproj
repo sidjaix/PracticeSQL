@@ -61,6 +61,8 @@
     <Folder Include="Properties" />
     <Folder Include="dbo\" />
     <Folder Include="dbo\Tables\" />
+    <Folder Include="Scripts" />
+    <Folder Include="Scripts\PostDeployment" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\regions.sql" />
@@ -69,5 +71,15 @@
     <Build Include="dbo\Tables\jobs.sql" />
     <Build Include="dbo\Tables\departments.sql" />
     <Build Include="dbo\Tables\employees.sql" />
+    <Build Include="dbo\Tables\dependents.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="Scripts\PostDeployment\regions.sql" />
+    <None Include="Scripts\PostDeployment\countries.sql" />
+    <None Include="Scripts\PostDeployment\locations.sql" />
+    <None Include="Scripts\PostDeployment\departments.sql" />
+    <None Include="Scripts\PostDeployment\jobs.sql" />
+    <None Include="Scripts\PostDeployment\employees.sql" />
+    <None Include="Scripts\PostDeployment\dependents.sql" />
   </ItemGroup>
 </Project>
